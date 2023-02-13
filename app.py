@@ -1,6 +1,5 @@
-from flask import Flask,render_template
 import os
-
+from flask import Flask,render_template
 app = Flask(__name__)
 # app.secret_key = "aegsrg-wr+a7 na7"
 
